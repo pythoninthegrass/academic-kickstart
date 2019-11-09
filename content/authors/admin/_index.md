@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:test@example.org" # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/jim-vigland-38396650/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
